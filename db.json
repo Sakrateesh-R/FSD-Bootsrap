@@ -1,0 +1,18 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "Name": "Sakrateesh",
+      "Age": 20,
+      "Password": "saka123",
+      "Username": "Saka_Saku"
+    },
+    {
+      "Name": "TestData",
+      "Username": "Test_User",
+      "Password": "Test@123",
+      "Age": "21",
+      "id": 2
+    }
+  ]
+}
